@@ -6,7 +6,7 @@ In a data-driven world, we often rely on centralized data pipelines. This approa
 
 This project demonstrates how to build a simple, yet powerful, big data pipeline. It uses Apache Spark to process data and Storacha to store it in a decentralized approach. With decentralized technologies, we can create data workflows that are more transparent, user-centric, and fault-tolerant.
 
-## What This Is
+## How the Pipeline Works
 
 This project provides a blueprint for a decentralized data pipeline. It connects three powerful tools to create a simple, yet effective, workflow:
 
