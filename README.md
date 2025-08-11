@@ -1,6 +1,6 @@
 # Storacha Spark Pipeline
 
-## The Case for Decentralized Data Pipelines
+## Why Decentralized Data Pipelines Matter
 
 In a data-driven world, we often rely on centralized data pipelines. This approach creates single points of failure, increases security risks, and limits data sovereignty. Decentralized data pipelines, powered by technologies like IPFS and Storacha, offer a more resilient, secure, and censorship-resistant alternative.
 
